@@ -3,7 +3,7 @@ import glob
 from mido import MidiFile
 
 
-mid_annotations = glob.glob("**/*-annot.mid", recursive=True)
+mid_annotations = glob.glob("**/TheBlues-15-annot.mid", recursive=True)
 
 for ma_path in mid_annotations:
 	mid = MidiFile(ma_path)

@@ -1,3 +1,10 @@
 **/*.wav
 .gitignore
 hook.py
+*.ly
+Recordings_and_Alignments/CarelessLove/CarelessLove-01/
+Recordings_and_Alignments/CarelessLove/CarelessLove-02/
+Recordings_and_Alignments/CarelessLove/CarelessLove-04/
+Recordings_and_Alignments/OvertheWaves/OvertheWaves-08/
+Scores/CarelessLove.pdf
+*.DS_Store

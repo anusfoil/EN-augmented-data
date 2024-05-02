@@ -7,3 +7,12 @@ This is the augmented Expert-Novice dataset from paper [Expert and Novice Evalua
 2. GPT4 cleaned instructor and rater feedback with question-answers in ```evaluation_qa.csv``` 
 3. Annotated the error regions in the same fashion as the Burgmuller set (Separate MIDI track with pitch 0 covering the error region), according to the rater feedback. New tracks are ```*-annot.mid```, ones without annotations are free of salient mistake regions. The type of mistake is briefly discussed in ```mistake_notes.pdf```
 
+### Affiliated works
+```
+@inproceedings{morsi2024SimulatingContexts, 
+    title = {Simulating and Validating Piano Performance Mistakes for Music Learning Contexts},
+    publisher={Proceedings of the Sound and Music Computing Conference (SMC)}, 
+    author={Morsi, Alia and Zhang, Huan and Maezawa, Akira and Dixon, Simon and Serra, Xavier}, 
+    year={2024}
+}
+```
